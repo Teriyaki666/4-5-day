@@ -1,0 +1,44 @@
+*{
+
+}
+:root {
+  --main-color: hotpink;
+  --pane-padding: 5px 42px;
+}
+@font-face {
+
+}
+body{
+
+}
+.magic-list {
+
+}
+.magic-list_item {
+
+}
+.magic-list:first-child {
+
+}
+magic-list_header {
+
+}
+.magic-list_item::before {
+
+}
+.magic-list_item:hover .magic-list_header,
+.magic-list_item:hover::before {
+
+}
+.cursor {
+
+}
+.magic-list_item:hover .cursor{
+
+}
+.cursor_image{
+
+}
+.magic-list_item:hover .cursor_image {
+  
+}
